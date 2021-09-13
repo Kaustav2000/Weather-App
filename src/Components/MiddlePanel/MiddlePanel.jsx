@@ -1,7 +1,16 @@
 import React from "react";
+import Header from "../Header/Header";
+import { Middle } from "./MiddlePanel.style";
 
 const MiddlePanel = () => {
-  return <div></div>;
+  return (
+    <Middle>
+      <Header />
+      {/* <ImageBox />
+      <Forecast />
+      <Highlight /> */}
+    </Middle>
+  );
 };
 
 export default MiddlePanel;
