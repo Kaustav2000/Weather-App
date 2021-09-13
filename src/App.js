@@ -1,7 +1,8 @@
 import "./App.css";
+import WeatherContainer from "./Components/WeatherContainer/WeatherContainer";
 
 function App() {
-  return <h4>hello world</h4>;
+  return <WeatherContainer />;
 }
 
 export default App;
