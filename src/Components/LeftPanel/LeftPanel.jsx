@@ -2,6 +2,7 @@ import React from "react";
 import { TiWeatherPartlySunny, TiHome } from "react-icons/ti";
 import { FiSettings } from "react-icons/fi";
 import { Left, Logo } from "./LeftPanel.style";
+
 const LeftPanel = () => {
   return (
     <Left>
