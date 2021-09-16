@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const Middle = styled.div`
-  width: 55%;
+  width: 56%;
   display: flex;
   flex-direction: column;
-  padding: 50px;
+  padding: 10px 50px;
 `;
