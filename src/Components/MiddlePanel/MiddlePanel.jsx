@@ -1,6 +1,7 @@
 import React from "react";
 import Forecast from "../Forecast/Forecast";
 import Header from "../Header/Header";
+import Highlight from "../Highlight/Highlight";
 import ImageBox from "../ImageBox/ImageBox";
 import { Middle } from "./MiddlePanel.style";
 
@@ -10,7 +11,7 @@ const MiddlePanel = () => {
       <Header />
       <ImageBox />
       <Forecast />
-      {/* <Highlight /> */}
+      <Highlight />
     </Middle>
   );
 };
