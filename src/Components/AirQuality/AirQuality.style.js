@@ -8,7 +8,7 @@ export const Air = styled.div`
   -webkit-box-shadow: 4px 1px 4px -2px rgba(0, 0, 0, 0.18);
   -moz-box-shadow: 4px 1px 4px -2px rgba(0, 0, 0, 0.18);
   margin-right: 10px;
-  width: 32%;
+  width: 30%;
 `;
 export const Box = styled.div`
   background-color: #e3d356;
